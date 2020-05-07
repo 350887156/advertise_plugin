@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:advertise/advertise.dart';
 
@@ -35,8 +37,10 @@ class _MyAppState extends State<MyApp> {
                   child: Text('开屏广告'),
                 ),
                 onPressed: () async {
+                  final appId = Platform.isAndroid ? '1101152570' : '1105344611';
+                  final placementId = Platform.isAndroid ? '8863364436303842593' : '9040714184494018';
                   final result = await Advertise.splashAdLoadAndShow(
-                      adAppId: '1101152570', placementId: '8863364436303842593');
+                      adAppId: appId, placementId: placementId);
                   print(result ? '播放成功' : '播放失败');
                 },
               ),
@@ -48,8 +52,10 @@ class _MyAppState extends State<MyApp> {
                   child: Text('激励广告'),
                 ),
                 onPressed: () async {
+                  final appId = Platform.isAndroid ? '1101152570' : '1105344611';
+                  final placementId = Platform.isAndroid ? '6040295592058680' : '8020744212936426';
                   final result = await Advertise.rewardVideoShow(
-                      adAppId: '1101152570', placementId: '6040295592058680');
+                      adAppId: appId, placementId: placementId);
                   print(result ? '播放成功' : '播放失败');
                 },
               ),
