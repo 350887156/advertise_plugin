@@ -3,37 +3,37 @@
   "packages": [
     {
       "name": "archive",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/archive-2.0.11",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/archive-2.0.13",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "args",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/args-1.5.2",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/args-1.6.0",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.3"
     },
     {
       "name": "async",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/async-2.4.0",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/async-2.4.1",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.2"
     },
     {
       "name": "boolean_selector",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/boolean_selector-1.0.5",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/boolean_selector-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/charcode-1.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
-      "name": "charcode",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/charcode-1.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "1.0"
-    },
-    {
       "name": "collection",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/collection-1.14.11",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/collection-1.14.12",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -45,7 +45,7 @@
     },
     {
       "name": "crypto",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/crypto-2.1.3",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/crypto-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.1"
     },
@@ -63,7 +63,7 @@
     },
     {
       "name": "image",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/image-2.1.4",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/image-2.1.12",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -86,12 +86,6 @@
       "languageVersion": "2.0"
     },
     {
-      "name": "pedantic",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/pedantic-1.8.0+1",
-      "packageUri": "lib/",
-      "languageVersion": "2.1"
-    },
-    {
       "name": "petitparser",
       "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/petitparser-2.4.0",
       "packageUri": "lib/",
@@ -99,7 +93,7 @@
     },
     {
       "name": "quiver",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/quiver-2.0.5",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/quiver-2.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -111,9 +105,9 @@
     },
     {
       "name": "source_span",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/source_span-1.5.5",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/source_span-1.7.0",
       "packageUri": "lib/",
-      "languageVersion": "1.8"
+      "languageVersion": "2.6"
     },
     {
       "name": "stack_trace",
@@ -141,9 +135,9 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/test_api-0.2.11",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/test_api-0.2.15",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.4"
     },
     {
       "name": "typed_data",
@@ -159,9 +153,9 @@
     },
     {
       "name": "xml",
-      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/xml-3.5.0",
+      "rootUri": "file:///Users/sclea/development/flutter/.pub-cache/hosted/pub.flutter-io.cn/xml-3.6.1",
       "packageUri": "lib/",
-      "languageVersion": "2.3"
+      "languageVersion": "2.6"
     },
     {
       "name": "advertise",
@@ -170,7 +164,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-05-07T15:14:21.186477Z",
+  "generated": "2020-05-20T10:12:34.583935Z",
   "generator": "pub",
-  "generatorVersion": "2.7.2"
+  "generatorVersion": "2.8.2"
 }
