@@ -40,7 +40,7 @@ public class RewardVideoManager implements RewardVideoADListener {
         }
     }
     private void refreshRewardVideoAd(Context context, String appID, String posID) {
-        rewardVideoAD = new RewardVideoAD(context, appID, posID, this);
+        rewardVideoAD = new RewardVideoAD(context, appID, posID, this,false);
         rewardVideoAD.loadAD();
 
     }
