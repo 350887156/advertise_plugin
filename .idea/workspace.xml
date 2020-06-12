@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d9a43c74-9edf-49ae-b656-c97a90b49e86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/lajiaoyang/flutter/advertise/RewardVideoManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/lajiaoyang/flutter/advertise/RewardVideoManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/android/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
