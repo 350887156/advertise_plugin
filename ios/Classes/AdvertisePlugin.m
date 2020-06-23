@@ -18,7 +18,7 @@ GDTRewardedVideoAdDelegate
   FlutterMethodChannel* channel = [FlutterMethodChannel
       methodChannelWithName:@"advertise"
             binaryMessenger:[registrar messenger]];
-  AdvertisePlugin* instance = [[AdvertisePlugin alloc] init];
+  AdvertisePlugin* instance = [[AdvertisePlugin alloc] initWithRegistrar:registrar];
   [registrar addMethodCallDelegate:instance channel:channel];
 }
 
